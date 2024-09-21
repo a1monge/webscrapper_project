@@ -33,6 +33,3 @@ This project is a simple web scraper that fetches the top news headlines from th
 - Gained hands-on experience working with APIs and handling JSON data.
 - Improved Python programming skills.
 - Learned how to structure a project for clarity and usability.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
