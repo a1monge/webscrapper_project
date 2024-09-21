@@ -1,8 +1,13 @@
+import os
 import requests
+from dotenv import load_dotenv
 
-# Replace 'your_api_key_here' with your actual NewsAPI key
-API_KEY = '5ce070126d2c4e04bedd101eea14ca36'
-BASE_URL = 'https://newsapi.org/v2/top-headlines'
+# Load environment variables from .env file
+load_dotenv()
+
+# Get API key and base URL from environment variables
+API_KEY = os.getenv('API_KEY')
+BASE_URL = os.getenv('BASE_URL')
 
 
 def get_top_headlines(api_key, country='us', category='general'):
