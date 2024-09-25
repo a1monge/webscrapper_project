@@ -1,7 +1,7 @@
 # News Scraper
 
 ## Overview
-This project is a simple web scraper that fetches the top news headlines from the NewsAPI. It allows users to easily access the latest news articles based on selected categories and countries.
+This project is a web scraper that fetches the top news headlines from the NewsAPI. It allows users to easily access the latest news articles based on selected categories and countries.
 
 ## Features
 - Fetches the top headlines from the NewsAPI.
