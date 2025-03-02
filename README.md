@@ -24,4 +24,5 @@ This project is a web scraper that fetches the top news headlines from the NewsA
 - Improved Python programming skills.
 - Learned how to structure a project for clarity and usability.
 
+## Result
 ![Alt text](new.png)
