@@ -13,16 +13,6 @@ This project is a web scraper that fetches the top news headlines from the NewsA
 - Requests library
 - NewsAPI
 
-## How to Run
-1. Clone this repository to your local machine.
-2. Replace 'your_api_key_here' with your actual NewsAPI key in the code.
-3. Ensure you have Python and the Requests library installed.
-4. Run the script:
-
-   ```bash
-   python your_script_name.py
-   ```
-
 ## Future Enhancements
 - Implement a web interface using Flask or Django.
 - Save articles to a database for easy access and filtering.
@@ -33,3 +23,5 @@ This project is a web scraper that fetches the top news headlines from the NewsA
 - Gained hands-on experience working with APIs and handling JSON data.
 - Improved Python programming skills.
 - Learned how to structure a project for clarity and usability.
+
+![Alt text](new.png)
